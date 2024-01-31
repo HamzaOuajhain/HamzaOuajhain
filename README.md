@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Hamza Ouajhain</h1>
-<h3 align="center">A tech enthusiast from Belgium 🇧🇪</h3>
+<h3 align="center">A tech enthusiast currently based in Belgium 🇧🇪</h3>
 <p>&nbsp;</p>
 <h3 align="center">My Expertise:</h3>
 <p align="center">
