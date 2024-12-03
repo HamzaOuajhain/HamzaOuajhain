@@ -10,7 +10,7 @@
 <h3 align="center">Want to learn more about:</h3>
 <p align="center">
   <a href="https://hamzaouajhain.com/">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,rust,go"/>
+    <img src="https://skillicons.dev/icons?i=kotlin,cpp,cs,rust,go"/>
   </a>
 </p>
 <p>&nbsp;</p>
